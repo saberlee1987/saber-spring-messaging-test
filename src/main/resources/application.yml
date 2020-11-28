@@ -1,0 +1,4 @@
+spring:
+  amqp:
+    exchange: saber-test1
+    queue: saber-queue
